@@ -24,3 +24,6 @@ Following are a few conventions taken for the output expression:
   * Wherever bound variable names agree, the summary should use that name
   * Wherever bound variable names disagree, the summary should combine the two such that if expression x used 'X' and expression y used 'Y', the summary would use 'X!Y'
   * '%' is used to represent a subexpression that is #t in expression x and #f in expression y
+
+
+***Project Specification Provided by [Paul Eggert](https://web.cs.ucla.edu/classes/spring19/cs131/hw/hw5.html)***
